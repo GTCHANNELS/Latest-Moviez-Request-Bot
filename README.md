@@ -1,4 +1,4 @@
-# Telegram Movie Bot
+# Latest Moviez Bot
 
 ## Features
 
